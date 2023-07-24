@@ -1,0 +1,13 @@
+/*
+ * === Global style ===
+ */
+
+/* Body style */
+
+body{
+	margin: 0px;
+	padding: 0px;
+	color: #4848484;
+	font-size: 14px;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
